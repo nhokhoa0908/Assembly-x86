@@ -1,4 +1,5 @@
 section .data
+
 	; db is 1 byte (8 bits)
 	name 1 `db` "string"
 	name 2 `db` 0xff
